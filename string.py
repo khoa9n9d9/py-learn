@@ -6,3 +6,6 @@ print('string')
 print('string')
 print('string')
 print('string')
+
+while(true)
+    print(count)
